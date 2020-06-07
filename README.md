@@ -6,7 +6,7 @@ React app to search for restaurants using the Yelp API.
 
 Follow the link http://ravenproj.surge.sh
 
-## Issues and thinks to improve
+## Issues and things to improve
 
 Both fields needs to be filled or error may appear.
 
